@@ -46,14 +46,13 @@ silahkan dicoba dan ditest feature yang telah ada 🤙🏻
 - Password : admin
 
 **Students Default Account**
-- Email : zaidanline67@gmail.com
-- Password : 123456
+- Email : farrabi@gmail.com
+- Password : 
 
 **Teacher Default Account**
 - ../learnify/welcome/guru
-- Email : zaidanline67@gmail.com
-- Password : 123456
-
+- Email : muhammadalfarraby@yahoo.com
+- Password : 
 ------------
 
 ### 🧐 Prasyarat yang diperlukan 
@@ -69,16 +68,6 @@ silahkan dicoba dan ditest feature yang telah ada 🤙🏻
 - Upload database "Learnify.sql" ke dbms favourite kalian.
 - Jalankan di web browser ( Chrome, Firefox, Edge, Safari )
 
-
-## 🧑 Author
-
-👤 <a href="https://web.facebook.com/syaauqi"> **Syauqi Zaidan Khairan Khalaf**</a>
-- Twitter : <a href="https://twitter.com/syaaauqi"> @syaaauqi</a>
-- Facebook : <a href="https://web.facebook.com/syaaauqi"> Syauqi Zaidan Khairan Khalaf</a>
-- Instagram : <a href="https://www.instagram.com/syaufy/">@syaufy </a>
-- Dribbble : <a href="https://dribbble.com/syaufy">@syaufy </a>
-- Behance :  <a href="https://www.behance.net/syaufy">@syaufy </a>
-
 ## 🤝 Contributing
 Contributions, issues and feature requests di persilahkan.
 Jangan ragu untuk memeriksa halaman masalah jika Anda ingin berkontribusi. **Berhubung Project ini saya sudah selesaikan sendiri, namun banyak fitur yang kalian dapat tambahkan silahkan berkontribusi yaa!**
@@ -93,6 +82,5 @@ Jangan ragu untuk memeriksa halaman masalah jika Anda ingin berkontribusi. **Ber
 https://pastebin.pl/view/c3608c25
 
 ------------
-**Made with ❤️ by Syauqi Zaidan Khairan Khalaf**
 # kalabaru
 # kalabaru
