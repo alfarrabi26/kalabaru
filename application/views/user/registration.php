@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="icon" href="<?= base_url('assets/') ?>img/favicon.png" type="image/png">
-    <title>Learnify - Belajar Dimana Saja & Kapan Saja!</title>
+    <title>Kala Kini Nanti - Belajar Dimana Saja & Kapan Saja!</title>
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="<?= base_url('assets/') ?>css/bootstrap.css">
     <link rel="stylesheet" href="<?= base_url('assets/') ?>vendors/linericon/style.css">
@@ -39,14 +39,11 @@
                     <ul class="list header_social">
                         <li><a href="https://www.facebook.com/syaaauqi"><i class="fa fa-facebook"></i></a></li>
                         <li><a href="https://twitter.com/syaaauqi"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="https://dribbble.com/syaufy"><i class="fa fa-dribbble"></i></a></li>
-                        <li><a href="https://www.behance.net/syaufy"><i class="fa fa-behance"></i></a></li>
-                        <li><a href="https://www.github.com/syauqi"><i class="fa fa-github"></i></a></li>
                         <li><a href="https://www.instagram.com/syaufy"><i class="fa fa-instagram"></i></a></li>
                     </ul>
                 </div>
                 <div class="float-right">
-                    <a class="dn_btn" href="mailto:apps.learnify@gmail.com">apps.learnify@gmail.com</a>
+                    <a class="dn_btn" href="mailto:"></a>
                 </div>
             </div>
         </div>
@@ -54,7 +51,7 @@
             <nav class="navbar navbar-expand-lg navbar-light">
                 <div class="container">
                     <!-- Brand and toggle get grouped for better mobile display -->
-                    <a class="navbar-brand logo_h" href="<?= base_url('welcome') ?>"><img src="<?= base_url('assets/') ?>img/logo.png" alt=""></a>
+                    <a class="navbar-brand logo_h" href="<?= base_url('welcome') ?>">Kala Kini Nanti<img src="<?= base_url('assets/') ?>img/" alt=""></a>
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
@@ -87,7 +84,7 @@
             </div>
             <div class="container">
                 <div class="banner_content text-center">
-                    <h2>Pendaftaran Learnify</h2>
+                    <h2>Pendaftaran Kala Kini Nanti</h2>
                     <div class="page_link">
                         <a href="<?= base_url('welcome') ?>">Beranda</a>
                         <a href="<?= base_url('user/registration') ?>">Pendaftaran</a>
@@ -104,7 +101,7 @@
         <div class="row bg-registration p-3">
             <div class="col-md-12 text-center">
                 <p class="registration-title font-weight-bold display-4 mt-4" style="font-size: 50px;">
-                    Pendaftaran Learnify</p>
+                    Pendaftaran Kala Kini Nanti</p>
                 <p style="line-height:-30px;margin-top:-20px;">Silahkan isi data data yang diperlukan dibawah ini </p>
                 <hr>
             </div>

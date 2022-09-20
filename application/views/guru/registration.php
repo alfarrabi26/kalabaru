@@ -1,16 +1,3 @@
-<!--
-@Project: Learnify
-@Programmer: Syauqi Zaidan Khairan Khalaf
-@Website: https://linktr.ee/syauqi
-@Email : syaokay@gmail.com
-
-@About-Learnify :
-Web Edukasi Open Source yang dibuat oleh Syauqi Zaidan Khairan Khalaf.
-Learnify adalah Web edukasi yang dilengkapi video, materi dan sistem ujian
-yang tersedia secara gratis. Learnify dibuat ditujukan agar para siswa dan
-guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
--->
-
 <!DOCTYPE html>
 <html lang="en" style="scroll-behavior: smooth;">
 
@@ -18,7 +5,7 @@ guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
 
     <meta charset="UTF-8">
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no" name="viewport">
-    <title>Tambah Data Guru - Learnify</title>
+    <title>Tambah Data Staff - Kala Kini Nanti</title>
     <!-- General CSS Files -->
     <link rel="icon" href="<?= base_url('assets/') ?>img/favicon.png" type="image/png">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@500;700;900&display=swap" rel="stylesheet">
@@ -55,7 +42,7 @@ guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
                                                                                                     ?></div>
                         </a>
                         <div class="dropdown-menu dropdown-menu-right">
-                            <div class="dropdown-title">Admin - Learnify</div>
+                            <div class="dropdown-title">Staff - Kala Kini Nanti</div>
                             <a href="<?= base_url('welcome/logout') ?>" class="dropdown-item has-icon text-danger">
                                 <i class="fas fa-sign-out-alt"></i> Logout
                             </a>
@@ -68,7 +55,7 @@ guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
                     <div class="sidebar-brand text-danger">
                         <div>
                             <a href="<?= base_url('admin') ?>" style="font-size: 30px;font-weight:900;font-family: 'Poppins', sans-serif;" class="text-success text-center"><i style="font-size: 30px;" class="fas fa-graduation-cap"></i> |
-                                Learnify <sup>3</sup> </a>
+                            Kala Kini Nanti <sup>3</sup> </a>
                         </div>
                     </div>
                     <div class="sidebar-brand sidebar-brand-sm">
@@ -81,7 +68,7 @@ guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
                             <a href="<?= base_url('admin') ?>" class="nav-link"><i class="fas fa-desktop"></i><span>Dashboard</span></a>
                         </li>
 
-                        <li class="menu-header">Management Siswa</li>
+                        <li class="menu-header">Management Pengunjung</li>
                         <li class="nav-item dropdown ">
                             <a href="#" class="nav-link has-dropdown" data-toggle="dropdown"><i class="fas fa-user"></i>
                                 <span>Siswa</span></a>
@@ -90,25 +77,14 @@ guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
                             </ul>
                         </li>
 
-                        <li class="menu-header">Management Guru</li>
+                        <li class="menu-header">Management Staff</li>
                         <li class="nav-item dropdown active">
                             <a href="#" class="nav-link has-dropdown"><i class="fas fa-chalkboard-teacher"></i>
                                 <span>Guru</span></a>
                             <ul class="dropdown-menu">
-                                <li><a class="nav-link" href="<?= base_url('admin/data_guru') ?>">Data Guru</a>
+                                <li><a class="nav-link" href="<?= base_url('admin/data_guru') ?>">Data Staff</a>
                                 </li>
-                                <li><a class="nav-link" href="<?= base_url('admin/add_guru') ?>">Tambah Data Guru</a>
-                                </li>
-                            </ul>
-                        </li>
-                        <li class="menu-header">Management Materi</li>
-                        <li class="nav-item dropdown">
-                            <a href="#" class="nav-link has-dropdown"><i class="fas fa-book"></i>
-                                <span>Materi</span></a>
-                            <ul class="dropdown-menu">
-                                <li><a class="nav-link" href="<?= base_url('admin/data_materi') ?>">Data Materi</a>
-                                </li>
-                                <li><a class="nav-link" href="<?= base_url('admin/tambah_materi') ?>">Tambah Materi</a>
+                                <li><a class="nav-link" href="<?= base_url('admin/add_guru') ?>">Tambah Data Staff</a>
                                 </li>
                             </ul>
                         </li>

@@ -1,16 +1,3 @@
-<!--
-@Project: Learnify
-@Programmer: Syauqi Zaidan Khairan Khalaf
-@Website: https://linktr.ee/syauqi
-@Email : syaokay@gmail.com
-
-@About-Learnify :
-Web Edukasi Open Source yang dibuat oleh Syauqi Zaidan Khairan Khalaf.
-Learnify adalah Web edukasi yang dilengkapi video, materi dan sistem ujian
-yang tersedia secara gratis. Learnify dibuat ditujukan agar para siswa dan
-guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
--->
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -18,7 +5,7 @@ guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
 
     <meta charset="UTF-8">
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no" name="viewport">
-    <title>Learnify - Teacher Login</title>
+    <title>Kala Kini Nanti - Staff Login</title>
 
     <!-- General CSS Files -->
     <link rel="icon" href="<?= base_url('assets/') ?>img/favicon.png" type="image/png">
@@ -41,11 +28,11 @@ guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
             <div class="d-flex flex-wrap align-items-stretch">
                 <div class="col-lg-4 col-md-6 col-12 order-lg-1 min-vh-100 order-2 bg-white">
                     <div class="p-4 m-3">
-                        <a href="<?= base_url('welcome') ?>"> <img src="<?= base_url('assets/') ?>/img/logo.png" alt="logo" width="150" class=" mb-5 mt-2"></a>
-                        <h4 class="text-dark font-weight-normal">Selamat datang di <span class="font-weight-bold">Learnify</span>
+                        <a href="<?= base_url('welcome') ?>"> <h2> Kala Kini Nanti</h2> <img src="<?= base_url('assets/') ?>/img/" alt="" width="150" class=" mb-5 mt-2"></a>
+                        <h4 class="text-dark font-weight-normal">Selamat datang di <span class="font-weight-bold">Kala Kini Nanti</span>
                         </h4>
-                        <p class="text-muted">Sebelum masuk ke halaman guru, anda harus login terlebih dahulu sebagai
-                            guru. silahkan isi data dibawah untuk melanjutkan.</p>
+                        <p class="text-muted">Sebelum masuk ke halaman Staff, anda harus login terlebih dahulu sebagai
+                            Staff. silahkan isi data dibawah untuk melanjutkan.</p>
                         <form method="post" action="<?= base_url('welcome/guru') ?>" class="needs-validation" novalidate="">
                             <div class="form-group">
                                 <label for="email">Email</label>
@@ -76,12 +63,12 @@ guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
                     <div class="absolute-bottom-left index-2">
                         <div class="text-light p-5 pb-2">
                             <div class="mb-5 pb-3">
-                                <h1 class="mb-2 display-4 font-weight-bold text-white">Selamat datang, Guru!</h1>
+                                <h1 class="mb-2 display-4 font-weight-bold text-white">Selamat datang, Staff!</h1>
                                 <h5 class="font-weight-normal text-muted-transparent text-white">Silahkan login untuk
                                     masuk ke
-                                    halaman guru.</h5>
+                                    halaman staff.</h5>
                             </div>
-                            Made with <span class="text-danger"> &#10084;</span> by <a class="text-light bb" target="_blank" href="https://syauqizaidan.github.io/">Syaauqi Zaaidan</a> - Image by <a class="text-light bb" target="_blank" href="https://unsplash.com">Unsplash</a>
+                            Made with <span class="text-danger"> &#10084;</span> by <a class="text-light bb" target="_blank" href="">  </a> - Image by <a class="text-light bb" target="_blank" href="https://unsplash.com">Unsplash</a>
                         </div>
                     </div>
                 </div>

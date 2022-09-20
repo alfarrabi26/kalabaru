@@ -5,10 +5,11 @@
         </div>
         <div class="container">
             <div class="banner_content text-center">
-                <h3 data-aos="fade-up" data-aos-duration="1600">Belajar Dimana Saja & Kapan Saja <br /> Mudah Dengan Learnify</h3>
-                <p data-aos="fade-up" data-aos-duration="1900">Dengan Learnify kemudahan kegiatan belajar mengajar dapat terpenuhi. Para guru dan siswa dapat
+                <h3 data-aos="fade-up" data-aos-duration="1600"> Kala Kini Nanti <br /></h3>
+                <p data-aos="fade-up" data-aos-duration="1900">Dengan Kala Kini Nanti kemudahan kegiatan belajar mengajar dapat terpenuhi. Para guru dan siswa dapat
                     belajar meski banyak halangan atau rintangan. Nikmati Pembelajaran terstruktur dan efektif menggunakan Learnify serta kemudahan belajar dengan menggunakan aplikasi kami. </p>
-                <a data-aos="fade-up" data-aos-duration="2000" class="main_btn" href="<?= base_url('user/registration') ?>#registration">Buat Avatar Sekarang <span class="lnr lnr-arrow-right"></span></a>
+                <a data-aos="fade-up" data-aos-duration="2000" class="main_btn" href="<?= base_url('user/registration') ?>#registration">Buat Avatar Sekarang dengan Daftar<span class="lnr lnr-arrow-right"></span></a>
+                <a data-aos="fade-up" data-aos-duration="2000" class="main_btn" href="<?= base_url('coba_grid.php') ?>">Buat Avatar Sekarang tanpa Daftar<span class="lnr lnr-arrow-right"></span></a>
             </div>
         </div>
     </div>
@@ -35,12 +36,6 @@
     </div>
 </section>
 <!--================End Finance Area =================-->
-
-
-
-<!--================Team Area =================-->
-
-<!--================End Team Area =================-->
 
 <!--================Impress Area =================-->
 <section class="impress_area p_120">

@@ -1,16 +1,3 @@
-<!--
-@Project: Learnify
-@Programmer: Syauqi Zaidan Khairan Khalaf
-@Website: https://linktr.ee/syauqi
-@Email : syaokay@gmail.com
-
-@About-Learnify :
-Web Edukasi Open Source yang dibuat oleh Syauqi Zaidan Khairan Khalaf.
-Learnify adalah Web edukasi yang dilengkapi video, materi dan sistem ujian
-yang tersedia secara gratis. Learnify dibuat ditujukan agar para siswa dan
-guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
--->
-
 <!doctype html>
 <html lang="en">
 
@@ -19,8 +6,8 @@ guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="icon" href="<?= base_url('assets/') ?>img/favicon.png" type="image/png">
-    <title>Learnify - Belajar Dimana Saja & Kapan Saja !</title>
+    <link rel="icon" href="<?= base_url('assets/') ?>img/NM.png" type="image/png">
+    <title>Kala Kini Nanti - Digital space Art</title>
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="<?= base_url('assets/') ?>css/bootstrap.css">
     <link rel="stylesheet" href="<?= base_url('assets/') ?>vendors/linericon/style.css">
@@ -49,7 +36,7 @@ guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
             <nav class="navbar navbar-expand-lg navbar-light">
                 <div class="container">
                     <!-- Brand and toggle get grouped for better mobile display -->
-                    <a class="navbar-brand logo_h" href="<?= base_url('welcome') ?>"><img src="<?= base_url('assets/') ?>img/logo.png" alt=""></a>
+                    <a class="navbar-brand logo_h" href="<?= base_url('') ?>"><img src="<?= base_url('assets/') ?>" alt=""></a>
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>

@@ -43,10 +43,10 @@ guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
             <div class="d-flex flex-wrap align-items-stretch">
                 <div class="col-lg-4 col-md-6 col-12 order-lg-1 min-vh-100 order-2 bg-white">
                     <div class="p-4 m-3">
-                        <a href="<?=base_url('welcome')?>"> <img src="<?=base_url('assets/')?>/img/logo.png" alt="logo"
+                        <a href="<?=base_url('welcome')?>"> <h2> Kala Kini Nanti </h2> <img src="<?=base_url('assets/')?>/img/" alt=""
                                 width="150" class=" mb-5 mt-2"></a>
                         <h4 class="text-dark font-weight-normal">Selamat datang di <span
-                                class="font-weight-bold">Learnify</span>
+                                class="font-weight-bold">Kala Kini Nanti</span>
                         </h4>
                         <p class="text-muted">Sebelum masuk ke halaman admin, anda harus login terlebih dahulu sebagai
                             admin. silahkan isi data dibawah untuk melanjutkan.</p>
@@ -91,8 +91,8 @@ guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
                                     halaman admin.</h5>
                             </div>
                             Made with <span class="text-danger"> &#10084;</span> by <a class="text-light bb"
-                                target="_blank" href="https://syauqizaidan.github.io/">Syaauqi Zaaidan</a> - Image by <a
-                                class="text-light bb" target="_blank" href="https://unsplash.com">Unsplash</a>
+                                target="_blank" href="">NM</a> - Image by <a
+                                class="text-light bb" target="_blank" href=""></a>
                         </div>
                     </div>
                 </div>

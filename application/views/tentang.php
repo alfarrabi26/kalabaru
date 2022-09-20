@@ -111,7 +111,7 @@
 <section class="team_area p_20">
     <div class="container">
         <div class="main_title">
-            <h2 data-aos="fade-up" data-aos-duration="1800">Testimonial Para Siswa Learnify</h2>
+            <h2 data-aos="fade-up" data-aos-duration="1800">Testimonial Para Pengunjung Kala Kini Nanti</h2>
             <p data-aos="fade-up" data-aos-duration="2000">Merciful revaluation burying love ultimate value inexpedient ubermensch. Holiest madness victorious morality hope endless christian madness. Love dead fearful transvaluation marvelous. Oneself right ideal abstract endless faith deceptions zarathustra grandeur law ubermensch free.</p>
         </div>
         <section class="testimonials_area p_20">
@@ -119,8 +119,6 @@
                 <div class="testi_slider owl-carousel">
                     <div class="item">
                         <div class="testi_item">
-                            <img src="<?= base_url('assets/') ?>img/testimonials/testi-3.png" alt="">
-                            <h4>Syauqi Zaidan Khairan Khalaf</h4>
                             <ul class="list">
                                 <li><a href="#"><i class="fa fa-star"></i></a></li>
                                 <li><a href="#"><i class="fa fa-star"></i></a></li>
@@ -133,8 +131,6 @@
                     </div>
                     <div class="item">
                         <div class="testi_item">
-                            <img src="<?= base_url('assets/') ?>img/testimonials/testi-2.png" alt="">
-                            <h4>Taupik Hidayat</h4>
                             <ul class="list">
                                 <li><a href="#"><i class="fa fa-star"></i></a></li>
                                 <li><a href="#"><i class="fa fa-star"></i></a></li>
@@ -147,8 +143,6 @@
                     </div>
                     <div class="item">
                         <div class="testi_item">
-                            <img src="<?= base_url('assets/') ?>img/testimonials/testi-1.png" alt="">
-                            <h4>Diki Ramdani</h4>
                             <ul class="list">
                                 <li><a href="#"><i class="fa fa-star"></i></a></li>
                                 <li><a href="#"><i class="fa fa-star"></i></a></li>
@@ -171,10 +165,10 @@
 <section class="impress_area p_120">
     <div class="container">
         <div class="impress_inner text-center">
-            <h2 data-aos="fade-up" data-aos-duration="1800">LOGIN SEBAGAI GURU DAN UPLOAD MATERI & VIDEO SEKARANG</h2>
+            <h2 data-aos="fade-up" data-aos-duration="1800">LOGIN SEBAGAI Staff SEKARANG</h2>
             <p data-aos="fade-up" data-aos-duration="2000">Merciful revaluation burying love ultimate value inexpedient ubermensch. Holiest madness victorious morality hope endless christian madness. Love dead fearful transvaluation marvelous. Oneself right ideal abstract endless faith deceptions zarathustra grandeur law ubermensch free. Abstract chaos snare play truth ultimate good self. God overcome sexuality pious abstract good decieve revaluation aversion good. Virtues chaos overcome society holiest truth.
             </p>
-            <a data-aos="fade-up" data-aos-duration="2200" class="main_btn" href="<?= base_url('welcome/guru') ?>">Login Sebagai Guru <span class="lnr lnr-arrow-right text-black"></span></a>
+            <a data-aos="fade-up" data-aos-duration="2200" class="main_btn" href="<?= base_url('welcome/guru') ?>">Login Sebagai Staff <span class="lnr lnr-arrow-right text-black"></span></a>
         </div>
     </div>
 </section>

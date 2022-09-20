@@ -5,10 +5,10 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta content="Learnify dibuat ditujukan agar para siswa dan guru dapat terus belajar dan mengajar dimana saja dan kapan saja." name="Description" />
-    <meta content="Learnify, E-learning, Open Source, Syauqi Zaidan Khairan Khalaf, github, programmer indonesia" name="keywords" />
-    <link rel="icon" href="<?= base_url('assets/') ?>img/favicon.png" type="image/png">
-    <title>Learnify - Belajar Dimana Saja & Kapan Saja !</title>
+    <meta content="Kala Kini Nanti dibuat ditujukan agar para siswa dan guru dapat terus belajar dan mengajar dimana saja dan kapan saja." name="Description" />
+    <meta content="Kala Kini Nanti, E-learning, Open Source, github, programmer indonesia" name="keywords" />
+    <link rel="icon" href="<?= base_url('assets/') ?>img/NM.png" type="image/png">
+    <title>Kala Kini Nanti - Digital Art Platform </title>
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="<?= base_url('assets/') ?>css/bootstrap.css">
     <link rel="stylesheet" href="<?= base_url('assets/') ?>vendors/linericon/style.css">
@@ -45,16 +45,13 @@
             <div class="container">
                 <div class="float-left">
                     <ul class="list header_social">
-                        <li><a href="https://www.facebook.com/syaaauqi"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="https://twitter.com/syaaauqi"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="https://dribbble.com/syaufy"><i class="fa fa-dribbble"></i></a></li>
-                        <li><a href="https://www.behance.net/syaufy"><i class="fa fa-behance"></i></a></li>
-                        <li><a href="https://www.github.com/syauqi"><i class="fa fa-github"></i></a></li>
-                        <li><a href="https://www.instagram.com/syaufy"><i class="fa fa-instagram"></i></a></li>
+                        <li><a href="https://www.facebook.com/SembilanMatahariNM"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="https://twitter.com/NMworld"><i class="fa fa-twitter"></i></a></li>
+                        <li><a href="https://www.instagram.com/sembilan_matahari/"><i class="fa fa-instagram"></i></a></li>
                     </ul>
                 </div>
                 <div class="float-right">
-                    <a class="dn_btn" href="mailto:apps.learnify@gmail.com">apps.learnify@gmail.com</a>
+                    <a class="dn_btn" href="mailto:">  </a>
                 </div>
             </div>
         </div>
@@ -63,7 +60,7 @@
             <nav class="navbar navbar-expand-lg navbar-light">
                 <div class="container">
                     <!-- Brand and toggle get grouped for better mobile display -->
-                    <a class="navbar-brand logo_h" href="<?= base_url('welcome') ?>"><img src="<?= base_url('assets/') ?>img/logo.png" alt=""></a>
+                    <a class="navbar-brand logo_h" href="<?= base_url('welcome') ?>">Kala Kini Nanti<img src="<?= base_url('assets/') ?>  " alt=""></a>
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
@@ -74,9 +71,6 @@
                         <ul class="nav navbar-nav menu_nav ml-auto">
                             <li class="nav-item" id="nav"><a class="nav-link" href="<?= base_url('welcome') ?>">Beranda</a></li>
                             <li class="nav-item" id="navtentang"><a class="nav-link" href="<?= base_url('welcome/tentang') ?>">Tentang</a>
-                            </li>
-                            <li class="nav-item submenu dropdown" id="navpelajaran">
-                                <a href="<?= base_url('welcome/pelajaran') ?>" class="nav-link dropdown-toggle" role="button" aria-haspopup="true" aria-expanded="false">Pelajaran</a>
                             </li>
                             <li class="nav-item" id="navkontak"><a class="nav-link" href="<?= base_url('welcome/kontak') ?>">Kontak</a>
                             </li>

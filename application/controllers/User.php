@@ -21,15 +21,6 @@ class User extends CI_Controller
         $this->load->view('template/footer');
     }
 
-    public function kelas10()
-    {
-        $data['user'] = $this->db->get_where('siswa', ['email' =>
-            $this->session->userdata('email')])->row_array();
-
-        $this->load->view('user/kelas10');
-        $this->load->view('template/footer');
-    }
-
     public function kelas11()
     {
         $data['user'] = $this->db->get_where('siswa', ['email' =>
@@ -39,14 +30,6 @@ class User extends CI_Controller
         $this->load->view('template/footer');
     }
 
-    public function kelas12()
-    {
-        $data['user'] = $this->db->get_where('siswa', ['email' =>
-            $this->session->userdata('email')])->row_array();
-
-        $this->load->view('user/kelas12');
-        $this->load->view('template/footer');
-    }
 
     public function registration()
     {
